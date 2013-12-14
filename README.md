@@ -1,4 +1,9 @@
-drupal-panles-slides
+Panels in Drupal
 ====================
 
-Slides about Panels
+Slides presented at Drupal Montly Meetup Bangalore
+
+About
+Drupal Blocks, Context and Panel Modules
+And some Myths about Panels
+
